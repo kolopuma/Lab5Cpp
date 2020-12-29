@@ -1,0 +1,41 @@
+﻿  Lab5.1.cpp
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(202,29): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(207,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(214,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(19,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(18): message : во время компиляции функции-члена класс шаблон "void DataManager<int>::push(T [],size_t)"
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(18): message :         with
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(18): message :         [
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(18): message :             T=int
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(18): message :         ]
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\Lab5.1.cpp(37): message : выполняется компиляция ссылки на экземпляр шаблон функции "void DataManager<int>::push(T [],size_t)"
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\Lab5.1.cpp(37): message :         with
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\Lab5.1.cpp(37): message :         [
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\Lab5.1.cpp(37): message :             T=int
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\Lab5.1.cpp(37): message :         ]
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\Lab5.1.cpp(34): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "DataManager<int>"
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(96,29): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(86): message : во время компиляции функции-члена класс шаблон "void DataManager<double>::chekEmpty(void)"
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(71): message : выполняется компиляция ссылки на экземпляр шаблон функции "void DataManager<double>::chekEmpty(void)"
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\Lab5.1.cpp(61): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "DataManager<double>"
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(101,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(108,2): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(52,20): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(52,20): warning C4244:         with
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(52,20): warning C4244:         [
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(52,20): warning C4244:             T=int
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(52,20): warning C4244:         ]
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(41): message : во время компиляции функции-члена класс шаблон "void DataManager<int>::Sort(T [],int)"
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(41): message :         with
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(41): message :         [
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(41): message :             T=int
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(41): message :         ]
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(37): message : выполняется компиляция ссылки на экземпляр шаблон функции "void DataManager<int>::Sort(T [],int)"
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(37): message :         with
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(37): message :         [
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(37): message :             T=int
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(37): message :         ]
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(85): warning C4715: DataManager<int>::pop: значение возвращается не при всех путях выполнения
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(171): warning C4715: DataManager<char>::popUpper: значение возвращается не при всех путях выполнения
+C:\Users\Максим\source\repos\Lab5Cpp\Lab5.1\DataManager.h(85): warning C4715: DataManager<double>::pop: значение возвращается не при всех путях выполнения
+  Lab5.1.vcxproj -> C:\Users\Максим\source\repos\Lab5Cpp\Debug\Lab5.1.exe
